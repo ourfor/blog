@@ -1,5 +1,5 @@
 ---
-title: 初尝Typocho
+title: 初尝Typecho
 date: 2018-07-20 16:34:37
 tags: [VPS,Typoche]
 categories: "Blog"
