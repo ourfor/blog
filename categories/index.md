@@ -1,4 +1,0 @@
----
-type: "categories"
-layout: "categories"
----
