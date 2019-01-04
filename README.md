@@ -16,4 +16,4 @@
 
 ![漫山的鲜花💐只有你是我的爱](https://i.loli.net/2018/10/28/5bd5357e34b07.jpg)
 
-文章全部写在ISSUES里面，点击WATCH，一但更新文章就可以收到推送，缺点就是其他人的评论也能收到
+文章全部写在[ISSUES](https://github.com/ourfor/Blog/issues)里面，点击WATCH，一但更新文章就可以收到推送，缺点就是其他人的评论也能收到
