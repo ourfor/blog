@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package version="2.0" 
+	xmlns="http://www.idpf.org/2007/opf" unique-identifier="uid">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/" 
+		xmlns:opf="http://www.idpf.org/2007/opf">
+		<dc:title>课堂内外(2020.03)</dc:title>
+		<dc:language>zh</dc:language>
+		<dc:identifier id="uid">2215521149</dc:identifier>
+		<dc:creator>ourfor create</dc:creator>
+		<dc:publisher>Zip的小窝出版社</dc:publisher>
+		<dc:date opf:event="publication">2020-04-22</dc:date>
+		<meta name="cover" content="cover_image" />
+		<meta name="output encoding" content="utf-8" />
+		<meta name="primary-writing-mode" content="horizontal-lr" />
+	</metadata>
+	<manifest>
+		<item id="cover_image" media-type="image/jpeg" href="Images/0001.jpg" />
+		<item id="ncx" media-type="application/x-dtbncx+xml" href="toc.ncx" />		
+		<item id="cover_page" media-type="application/xhtml+xml" href="Text/cover_page.xhtml" />
+		<item id="part0000" media-type="application/xhtml+xml" href="Text/part0000.xhtml" />
+		<item id="part0001" media-type="application/xhtml+xml" href="Text/part0001.xhtml" />
+		<item id="part0002" media-type="application/xhtml+xml" href="Text/part0002.xhtml" />
+	</manifest>
+	<spine toc="ncx">
+		<itemref idref="cover_page" linear="no"/>
+		<itemref idref="part0000"/>
+		<itemref idref="part0001"/>
+		<itemref idref="part0002"/>
+	</spine>
+	<tours>
+	</tours>
+	<guide>
+		<reference type="toc" title="Table of Contents" href="Text/part0001.xhtml" />
+		<reference type="cover" title="Cover" href="Text/cover_page.xhtml" />
+	</guide>
+</package>
